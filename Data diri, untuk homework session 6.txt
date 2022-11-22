@@ -1,3 +1,4 @@
 Nama: Fetrina Komala Devi
 Kegiatan: Kerja 8 to 5, Olahraga Tennis, Fitness, Hangout
 Kenapa tertarik ikut kelas QA Engineer, karena saya bekerja sebagai QA Analyst, ingin meningkatkan skills QA Engineering. Serta ingin mengetahui proses dan teknologi terkait QA Engineering di perusahaan lain seperti apa. Lalu harganya masih bisa saya jangkau.
+Test buat PR
